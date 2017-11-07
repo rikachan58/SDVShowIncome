@@ -1,0 +1,9 @@
+﻿{
+  "Name": "ShowIncome",
+  "Author": "Tara Crittenden",
+  "Version": "0.7",
+  "Description": "Displays the current income from the shipping box on your farm.",
+  "UniqueID": "taracrittenden.showincome",
+  "EntryDll": "ShowIncome.dll",
+  "UpdateKeys": []
+}
