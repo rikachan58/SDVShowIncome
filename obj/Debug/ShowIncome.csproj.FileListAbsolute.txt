@@ -1,5 +1,0 @@
-C:\Users\Tara\source\repos\ShowIncome\ShowIncome\bin\Debug\ShowIncome.dll
-C:\Users\Tara\source\repos\ShowIncome\ShowIncome\bin\Debug\ShowIncome.pdb
-C:\Users\Tara\source\repos\ShowIncome\ShowIncome\obj\Debug\ShowIncome.csproj.CoreCompileInputs.cache
-C:\Users\Tara\source\repos\ShowIncome\ShowIncome\obj\Debug\ShowIncome.dll
-C:\Users\Tara\source\repos\ShowIncome\ShowIncome\obj\Debug\ShowIncome.pdb
